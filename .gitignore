@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Project specific
+processed/
+*.pb
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+# Celery
+celerybeat-schedule.db
+
+# Redis dump
+dump.rdb
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
